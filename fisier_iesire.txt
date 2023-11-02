@@ -1,0 +1,5 @@
+numar litere mici: 143
+numar litere mari: 114
+numar cifre: 62
+numar aparitii caracter: 4
+dimensiune fisier: 347
